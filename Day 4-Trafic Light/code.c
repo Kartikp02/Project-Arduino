@@ -14,7 +14,7 @@ void loop()
     digitalWrite(2, HIGH); //turns on the green led, pin 2 is turned on
   	delay(100); //100 millisecond delay
   	digitalWrite(2, LOW); //turns off the green led, pin 2 is turned off
-  	delay(100); //100 millisecond 
+  	delay(100); //100 millisecond
   }
   
   digitalWrite(2, HIGH);//turns on the green led, pin 2 is turned on
